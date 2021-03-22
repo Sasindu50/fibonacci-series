@@ -30,4 +30,6 @@ int main()
        printf("%d\t",fib[i]);
    }
 
+   //fibonacci-serise
+
 }
